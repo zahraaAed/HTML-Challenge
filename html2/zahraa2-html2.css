@@ -1,0 +1,30 @@
+body{
+    margin-left: 100px;
+}
+img{
+    height: 150px;
+    margin: 50px;
+}
+menu{
+    margin: 0 35px;
+    font-size: 15px;
+}
+li{
+font-size: 20px;
+margin: 0 35px;
+}
+h3{
+    color: rgb(69, 153, 231);
+    
+}
+
+header{
+    background-color: rgb(159, 203, 245);
+    align-items: center;
+    
+}
+p{
+    font-size: 25px;
+    color:rgb(69, 153, 231);
+    
+}
